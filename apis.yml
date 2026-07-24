@@ -1,8 +1,13 @@
 aid: bedrock
 name: Bedrock
-description: 'Bedrock is a company surfaced as a portfolio company of northzone and added to the API Evangelist
-  network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Bedrock (Bedrock Ocean Exploration) builds advanced autonomous underwater
+  vehicles (AUVs) and Mosaic, a cloud-native data platform that transforms how the
+  world maps, monitors, and understands the seafloor. Its AUV fleet carries multibeam
+  echosounder, side-scan sonar, magnetometer, and sub-bottom profiler payloads to
+  deliver high-resolution geophysical survey data for offshore energy (wind, oil and
+  gas, renewables), ports and harbors, submarine telecom infrastructure, defense,
+  and scientific research. A Northzone portfolio company, Bedrock is an enterprise
+  ocean-data provider; it publishes no public developer API at this time.'
 url: https://raw.githubusercontent.com/api-evangelist/bedrock/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +15,31 @@ x-backed-by:
 - northzone
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: http://static1.squarespace.com/static/5fae5ff87a45fa2d8725fbf0/t/5fd1832bac13f65f660bb76e/1607566129226/Youtube+Banner+-+2048px+x+1152px.png?format=1500w
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Enterprise
+- Ocean Data
+- Seafloor Mapping
+- Marine
+- Autonomous Vehicles
+- Geospatial
+- Offshore Energy
+- Data Platform
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +49,22 @@ maintainers:
 common:
 - type: Website
   url: https://www.bedrockocean.com
+- type: Blog
+  url: https://www.bedrockocean.com/insights
+- type: Support
+  url: https://www.bedrockocean.com/contact
+- type: Login
+  url: https://mosaic.bedrockocean.com
+- type: PrivacyPolicy
+  url: https://www.bedrockocean.com/privacy-policy
+- type: Careers
+  url: https://jobs.ashbyhq.com/bedrockocean
+- type: LinkedIn
+  url: https://www.linkedin.com/company/bedrockocean/
+- type: DomainSecurity
+  url: security/bedrock-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
