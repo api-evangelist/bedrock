@@ -27,7 +27,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: http://static1.squarespace.com/static/5fae5ff87a45fa2d8725fbf0/t/5fd1832bac13f65f660bb76e/1607566129226/Youtube+Banner+-+2048px+x+1152px.png?format=1500w
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
