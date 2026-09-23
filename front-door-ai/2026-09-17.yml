@@ -1,0 +1,26 @@
+# Front Door AI Index — bedrock — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: bedrock
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.bedrockocean.com
+  final_host: www.bedrockocean.com
+  ownership: own
+  owner: bedrock
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 13
+  host_score: 13
+  density: 27.9
+  words: 466
+  tiers:
+    agentic: 0
+    core: 0
+    model: 13
+  ambiguous: 6
+  top_terms:
+    Bedrock: 13
+    intelligence: 6
