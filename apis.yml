@@ -40,7 +40,7 @@ accessModel:
 image: http://static1.squarespace.com/static/5fae5ff87a45fa2d8725fbf0/t/5fd1832bac13f65f660bb76e/1607566129226/Youtube+Banner+-+2048px+x+1152px.png?format=1500w
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-10-06'
 tags:
 - Company
 - Enterprise
@@ -58,6 +58,8 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- url: https://www.bedrockocean.com/insights?format=rss
+  type: BlogRSS
 - type: Website
   url: https://www.bedrockocean.com
 - type: Blog
